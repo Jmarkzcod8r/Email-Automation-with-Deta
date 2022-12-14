@@ -1,0 +1,1 @@
+{"id":"6705d25c-6685-42f8-bc2a-a3d79144412a","space":41690,"runtime":"python3.9","name":"email_automation","path":"j06d6o","project":"c018gk0r","account":"144798365827","region":"ap-southeast-1","deps":["pandas","python-dotenv"],"envs":["EMAIL","PASSWORD"],"public":true,"log_level":"debug","cron":"5 days"}
